@@ -12,7 +12,7 @@ Unityで作成したTPS風のゲームです。制作時、ParticleSystemにつ�
 
 
 ## プレイ動画・スクリーンショット
-![screenshot](screenshots/gameplay.png)
+<https://chi-ba.mydns.jp/blog/?p=60>
 
 ## 操作方法
 - W/A/S/D：移動
