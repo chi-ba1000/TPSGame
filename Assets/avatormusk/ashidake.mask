@@ -1,0 +1,1398 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ashidake
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: Boots
+    m_Weight: 1
+  - m_Path: Ear
+    m_Weight: 1
+  - m_Path: EarFringe
+    m_Weight: 1
+  - m_Path: Eye
+    m_Weight: 1
+  - m_Path: Fur
+    m_Weight: 1
+  - m_Path: Hair.Back
+    m_Weight: 1
+  - m_Path: Hair.Front
+    m_Weight: 1
+  - m_Path: Hair.Inner
+    m_Weight: 1
+  - m_Path: Hair.Side
+    m_Weight: 1
+  - m_Path: Hand
+    m_Weight: 1
+  - m_Path: LowerBody
+    m_Weight: 1
+  - m_Path: Paw
+    m_Weight: 1
+  - m_Path: Shoelaces
+    m_Weight: 1
+  - m_Path: Uniform
+    m_Weight: 1
+  - m_Path: Whisker
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips/Clothes.Hips.001"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips/Clothes.Hips.001/Clothes.Hips.001_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.002"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.002/Clothes.Hips.003"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.002/Clothes.Hips.003/Clothes.Hips.003_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.004"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.004/Clothes.Hips.005"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.004/Clothes.Hips.005/Clothes.Hips.005_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.006"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.006/Clothes.Hips.007"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.006/Clothes.Hips.007/Clothes.Hips.007_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.008"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.008/Clothes.Hips.009"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.008/Clothes.Hips.009/Clothes.Hips.009_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.010"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.010/Clothes.Hips.011"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.010/Clothes.Hips.011/Clothes.Hips.011_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.012"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.012/Clothes.Hips.013"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.012/Clothes.Hips.013/Clothes.Hips.013_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.014"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.014/Clothes.Hips.015"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.014/Clothes.Hips.015/Clothes.Hips.015_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.016"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.016/Clothes.Hips.017"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Clothes.Hips.016/Clothes.Hips.017/Clothes.Hips.017_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.002.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.002.L/Clothes.Chest.003.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.002.L/Clothes.Chest.003.L/Clothes.Chest.003.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.002.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.002.R/Clothes.Chest.003.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.002.R/Clothes.Chest.003.R/Clothes.Chest.003.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.004.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.004.L/Clothes.Chest.005.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.004.L/Clothes.Chest.005.L/Clothes.Chest.005.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.004.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.004.R/Clothes.Chest.005.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.004.R/Clothes.Chest.005.R/Clothes.Chest.005.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.006"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.006/Clothes.Chest.007"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.006/Clothes.Chest.007/Clothes.Chest.007_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.008.L/Clothes.Chest.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.008.L/Clothes.Chest.009.L/Clothes.Chest.009.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.008.R/Clothes.Chest.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.008.R/Clothes.Chest.009.R/Clothes.Chest.009.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.010"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.010/Clothes.Chest.011"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.010/Clothes.Chest.011/Clothes.Chest.011_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.012.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.012.L/Clothes.Chest.013.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.012.L/Clothes.Chest.013.L/Clothes.Chest.013.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.012.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.012.R/Clothes.Chest.013.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.012.R/Clothes.Chest.013.R/Clothes.Chest.013.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.L/Clothes.Chest.001.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.L/Clothes.Chest.001.L/Clothes.Chest.001.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.R/Clothes.Chest.001.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Clothes.Chest.R/Clothes.Chest.001.R/Clothes.Chest.001.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.001"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.001/Fur.002"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.001/Fur.002/Fur.003"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.001/Fur.002/Fur.003/Fur.004"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.001/Fur.002/Fur.003/Fur.004/Fur.005"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.001/Fur.002/Fur.003/Fur.004/Fur.005/Fur.005_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.006"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.006/Fur.007"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.006/Fur.007/Fur.008"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.006/Fur.007/Fur.008/Fur.009"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.006/Fur.007/Fur.008/Fur.009/Fur.010"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.006/Fur.007/Fur.008/Fur.009/Fur.010/Fur.010_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.011.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.011.L/Fur.012.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.011.L/Fur.012.L/Fur.013.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.011.L/Fur.012.L/Fur.013.L/Fur.014.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.011.L/Fur.012.L/Fur.013.L/Fur.014.L/Fur.015.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.011.L/Fur.012.L/Fur.013.L/Fur.014.L/Fur.015.L/Fur.015.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.016.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.016.L/Fur.017.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.016.L/Fur.017.L/Fur.018.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.016.L/Fur.017.L/Fur.018.L/Fur.019.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.016.L/Fur.017.L/Fur.018.L/Fur.019.L/Fur.020.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.016.L/Fur.017.L/Fur.018.L/Fur.019.L/Fur.020.L/Fur.020.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.021.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.021.L/Fur.022.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.021.L/Fur.022.L/Fur.023.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.021.L/Fur.022.L/Fur.023.L/Fur.024.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.021.L/Fur.022.L/Fur.023.L/Fur.024.L/Fur.025.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.021.L/Fur.022.L/Fur.023.L/Fur.024.L/Fur.025.L/Fur.025.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.026.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.026.L/Fur.027.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.026.L/Fur.027.L/Fur.028.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.026.L/Fur.027.L/Fur.028.L/Fur.029.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.026.L/Fur.027.L/Fur.028.L/Fur.029.L/Fur.030.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.026.L/Fur.027.L/Fur.028.L/Fur.029.L/Fur.030.L/Fur.030.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.031.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.031.R/Fur.032.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.031.R/Fur.032.R/Fur.033.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.031.R/Fur.032.R/Fur.033.R/Fur.034.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.031.R/Fur.032.R/Fur.033.R/Fur.034.R/Fur.035.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.031.R/Fur.032.R/Fur.033.R/Fur.034.R/Fur.035.R/Fur.035.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.036.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.036.R/Fur.037.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.036.R/Fur.037.R/Fur.038.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.036.R/Fur.037.R/Fur.038.R/Fur.039.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.036.R/Fur.037.R/Fur.038.R/Fur.039.R/Fur.040.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.036.R/Fur.037.R/Fur.038.R/Fur.039.R/Fur.040.R/Fur.040.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.041.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.041.R/Fur.042.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.041.R/Fur.042.R/Fur.043.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.041.R/Fur.042.R/Fur.043.R/Fur.044.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.041.R/Fur.042.R/Fur.043.R/Fur.044.R/Fur.045.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.041.R/Fur.042.R/Fur.043.R/Fur.044.R/Fur.045.R/Fur.045.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.046.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.046.R/Fur.047.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.046.R/Fur.047.R/Fur.048.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.046.R/Fur.047.R/Fur.048.R/Fur.049.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.046.R/Fur.047.R/Fur.048.R/Fur.049.R/Fur.050.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Fur.046.R/Fur.047.R/Fur.048.R/Fur.049.R/Fur.050.R/Fur.050.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ahoge"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ahoge/Ahoge.001"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ahoge/Ahoge.001/Ahoge.002"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ahoge/Ahoge.001/Ahoge.002/Ahoge.003"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ahoge/Ahoge.001/Ahoge.002/Ahoge.003/Ahoge.003_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.010.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.010.R/Ear.011.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.010.R/Ear.011.R/Ear.011.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.012.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.012.R/Ear.013.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.012.R/Ear.013.R/Ear.013.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.014.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.014.R/Ear.015.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.014.R/Ear.015.R/Ear.015.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.020.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.020.R/Ear.021.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.020.R/Ear.021.R/Ear.021.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.022.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.022.R/Ear.023.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.022.R/Ear.023.R/Ear.023.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.024.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.024.R/Ear.025.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.024.R/Ear.025.R/Ear.025.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.001.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.001.L/Ear.002.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.001.L/Ear.002.L/Ear.003.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.001.L/Ear.002.L/Ear.003.L/Ear.003.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.004.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.004.L/Ear.005.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.004.L/Ear.005.L/Ear.005.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.006.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.006.L/Ear.007.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.006.L/Ear.007.L/Ear.007.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.008.L/Ear.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.L/Ear.008.L/Ear.009.L/Ear.009.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.001.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.001.R/Ear.002.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.001.R/Ear.002.R/Ear.003.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.001.R/Ear.002.R/Ear.003.R/Ear.003.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.004.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.004.R/Ear.005.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.004.R/Ear.005.R/Ear.005.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.006.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.006.R/Ear.007.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.006.R/Ear.007.R/Ear.007.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.008.R/Ear.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Ear.R/Ear.008.R/Ear.009.R/Ear.009.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Eye_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Eye_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.090.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.090.R/Hair.012.L.093.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.090.R/Hair.012.L.093.R/Hair.012.L.094.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.090.R/Hair.012.L.093.R/Hair.012.L.094.R/Hair.012.L.095.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.090.R/Hair.012.L.093.R/Hair.012.L.094.R/Hair.012.L.095.R/Hair.012.L.096"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.090.R/Hair.012.L.093.R/Hair.012.L.094.R/Hair.012.L.095.R/Hair.012.L.096/Hair.012.L.096_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.098"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.098/Hair.012.L.102"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.098/Hair.012.L.102/Hair.012.L.103"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.098/Hair.012.L.102/Hair.012.L.103/Hair.012.L.103_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.104"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.104/Hair.012.L.108"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.104/Hair.012.L.108/Hair.012.L.109"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.L.104/Hair.012.L.108/Hair.012.L.109/Hair.012.L.109_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.097"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.097/Hair.012.R.102"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.097/Hair.012.R.102/Hair.012.R.103"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.097/Hair.012.R.102/Hair.012.R.103/Hair.012.R.103_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.104"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.104/Hair.012.R.107"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.104/Hair.012.R.107/Hair.012.R.108"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.104/Hair.012.R.107/Hair.012.R.108/Hair.012.R.109"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.104/Hair.012.R.107/Hair.012.R.108/Hair.012.R.109/Hair.012.R.110"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.012.R.104/Hair.012.R.107/Hair.012.R.108/Hair.012.R.109/Hair.012.R.110/Hair.012.R.110_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1/Hair.Back.001"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1/Hair.Back.001/Hair.Back.002"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1/Hair.Back.001/Hair.Back.002/Hair.Back.003"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1/Hair.Back.001/Hair.Back.002/Hair.Back.003/Hair.Back.004"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1/Hair.Back.001/Hair.Back.002/Hair.Back.003/Hair.Back.004/Hair.Back.005"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1/Hair.Back.001/Hair.Back.002/Hair.Back.003/Hair.Back.004/Hair.Back.005/Hair.Back.006"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1/Hair.Back.001/Hair.Back.002/Hair.Back.003/Hair.Back.004/Hair.Back.005/Hair.Back.006/Hair.Back.007"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back
+      1/Hair.Back.001/Hair.Back.002/Hair.Back.003/Hair.Back.004/Hair.Back.005/Hair.Back.006/Hair.Back.007/Hair.Back.007_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.L/Hair.Back.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.L/Hair.Back.009.L/Hair.Back.010.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.L/Hair.Back.009.L/Hair.Back.010.L/Hair.Back.011.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.L/Hair.Back.009.L/Hair.Back.010.L/Hair.Back.011.L/Hair.Back.012.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.L/Hair.Back.009.L/Hair.Back.010.L/Hair.Back.011.L/Hair.Back.012.L/Hair.Back.013.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.L/Hair.Back.009.L/Hair.Back.010.L/Hair.Back.011.L/Hair.Back.012.L/Hair.Back.013.L/Hair.Back.014.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.L/Hair.Back.009.L/Hair.Back.010.L/Hair.Back.011.L/Hair.Back.012.L/Hair.Back.013.L/Hair.Back.014.L/Hair.Back.014.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.R/Hair.Back.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.R/Hair.Back.009.R/Hair.Back.010.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.R/Hair.Back.009.R/Hair.Back.010.R/Hair.Back.011.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.R/Hair.Back.009.R/Hair.Back.010.R/Hair.Back.011.R/Hair.Back.012.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.R/Hair.Back.009.R/Hair.Back.010.R/Hair.Back.011.R/Hair.Back.012.R/Hair.Back.013.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.R/Hair.Back.009.R/Hair.Back.010.R/Hair.Back.011.R/Hair.Back.012.R/Hair.Back.013.R/Hair.Back.014.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.008.R/Hair.Back.009.R/Hair.Back.010.R/Hair.Back.011.R/Hair.Back.012.R/Hair.Back.013.R/Hair.Back.014.R/Hair.Back.014.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L/Hair.Back.016.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L/Hair.Back.016.L/Hair.Back.017.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L/Hair.Back.016.L/Hair.Back.017.L/Hair.Back.018.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L/Hair.Back.016.L/Hair.Back.017.L/Hair.Back.018.L/Hair.Back.019.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L/Hair.Back.016.L/Hair.Back.017.L/Hair.Back.018.L/Hair.Back.019.L/Hair.Back.020.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L/Hair.Back.016.L/Hair.Back.017.L/Hair.Back.018.L/Hair.Back.019.L/Hair.Back.020.L/Hair.Back.021.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L/Hair.Back.016.L/Hair.Back.017.L/Hair.Back.018.L/Hair.Back.019.L/Hair.Back.020.L/Hair.Back.021.L/Hair.Back.022.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.L/Hair.Back.016.L/Hair.Back.017.L/Hair.Back.018.L/Hair.Back.019.L/Hair.Back.020.L/Hair.Back.021.L/Hair.Back.022.L/Hair.Back.022.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R/Hair.Back.016.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R/Hair.Back.016.R/Hair.Back.017.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R/Hair.Back.016.R/Hair.Back.017.R/Hair.Back.018.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R/Hair.Back.016.R/Hair.Back.017.R/Hair.Back.018.R/Hair.Back.019.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R/Hair.Back.016.R/Hair.Back.017.R/Hair.Back.018.R/Hair.Back.019.R/Hair.Back.020.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R/Hair.Back.016.R/Hair.Back.017.R/Hair.Back.018.R/Hair.Back.019.R/Hair.Back.020.R/Hair.Back.021.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R/Hair.Back.016.R/Hair.Back.017.R/Hair.Back.018.R/Hair.Back.019.R/Hair.Back.020.R/Hair.Back.021.R/Hair.Back.022.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.015.R/Hair.Back.016.R/Hair.Back.017.R/Hair.Back.018.R/Hair.Back.019.R/Hair.Back.020.R/Hair.Back.021.R/Hair.Back.022.R/Hair.Back.022.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.042"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.042/Hair.012.L.081.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.042/Hair.012.L.081.R/Hair.012.L.089.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Back.042/Hair.012.L.081.R/Hair.012.L.089.R/Hair.012.L.089.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front
+      1"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front
+      1/Hair.Front.001"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front
+      1/Hair.Front.001/Hair.Front.002"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front
+      1/Hair.Front.001/Hair.Front.002/Hair.Front.003"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front
+      1/Hair.Front.001/Hair.Front.002/Hair.Front.003/Hair.Front.004"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front
+      1/Hair.Front.001/Hair.Front.002/Hair.Front.003/Hair.Front.004/Hair.Front.004_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.L/Hair.Front.006.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.L/Hair.Front.006.L/Hair.Front.007.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.L/Hair.Front.006.L/Hair.Front.007.L/Hair.Front.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.L/Hair.Front.006.L/Hair.Front.007.L/Hair.Front.008.L/Hair.Front.008.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.R/Hair.Front.006.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.R/Hair.Front.006.R/Hair.Front.007.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.R/Hair.Front.006.R/Hair.Front.007.R/Hair.Front.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.005.R/Hair.Front.006.R/Hair.Front.007.R/Hair.Front.008.R/Hair.Front.008.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.L/Hair.Front.010.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.L/Hair.Front.010.L/Hair.Front.011.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.L/Hair.Front.010.L/Hair.Front.011.L/Hair.Front.012.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.L/Hair.Front.010.L/Hair.Front.011.L/Hair.Front.012.L/Hair.Front.012.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.R/Hair.Front.010.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.R/Hair.Front.010.R/Hair.Front.011.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.R/Hair.Front.010.R/Hair.Front.011.R/Hair.Front.012.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Front.009.R/Hair.Front.010.R/Hair.Front.011.R/Hair.Front.012.R/Hair.Front.012.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L/Hair.Side.016.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L/Hair.Side.016.L/Hair.Side.017.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L/Hair.Side.016.L/Hair.Side.017.L/Hair.Side.018.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L/Hair.Side.016.L/Hair.Side.017.L/Hair.Side.018.L/Hair.Side.019.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L/Hair.Side.016.L/Hair.Side.017.L/Hair.Side.018.L/Hair.Side.019.L/Hair.Side.020.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L/Hair.Side.016.L/Hair.Side.017.L/Hair.Side.018.L/Hair.Side.019.L/Hair.Side.020.L/Hair.Side.021.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L/Hair.Side.016.L/Hair.Side.017.L/Hair.Side.018.L/Hair.Side.019.L/Hair.Side.020.L/Hair.Side.021.L/Hair.Side.022.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.L/Hair.Side.013.L/Hair.Side.014.L/Hair.Side.015.L/Hair.Side.016.L/Hair.Side.017.L/Hair.Side.018.L/Hair.Side.019.L/Hair.Side.020.L/Hair.Side.021.L/Hair.Side.022.L/Hair.Side.022.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R/Hair.Side.016.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R/Hair.Side.016.R/Hair.Side.017.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R/Hair.Side.016.R/Hair.Side.017.R/Hair.Side.018.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R/Hair.Side.016.R/Hair.Side.017.R/Hair.Side.018.R/Hair.Side.019.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R/Hair.Side.016.R/Hair.Side.017.R/Hair.Side.018.R/Hair.Side.019.R/Hair.Side.020.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R/Hair.Side.016.R/Hair.Side.017.R/Hair.Side.018.R/Hair.Side.019.R/Hair.Side.020.R/Hair.Side.021.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R/Hair.Side.016.R/Hair.Side.017.R/Hair.Side.018.R/Hair.Side.019.R/Hair.Side.020.R/Hair.Side.021.R/Hair.Side.022.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.012.R/Hair.Side.013.R/Hair.Side.014.R/Hair.Side.015.R/Hair.Side.016.R/Hair.Side.017.R/Hair.Side.018.R/Hair.Side.019.R/Hair.Side.020.R/Hair.Side.021.R/Hair.Side.022.R/Hair.Side.022.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L/Hair.Side.027.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L/Hair.Side.027.L/Hair.Side.028.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L/Hair.Side.027.L/Hair.Side.028.L/Hair.Side.029.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L/Hair.Side.027.L/Hair.Side.028.L/Hair.Side.029.L/Hair.Side.030.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L/Hair.Side.027.L/Hair.Side.028.L/Hair.Side.029.L/Hair.Side.030.L/Hair.Side.031.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L/Hair.Side.027.L/Hair.Side.028.L/Hair.Side.029.L/Hair.Side.030.L/Hair.Side.031.L/Hair.Side.032.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L/Hair.Side.027.L/Hair.Side.028.L/Hair.Side.029.L/Hair.Side.030.L/Hair.Side.031.L/Hair.Side.032.L/Hair.Side.033.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.L/Hair.Side.024.L/Hair.Side.025.L/Hair.Side.026.L/Hair.Side.027.L/Hair.Side.028.L/Hair.Side.029.L/Hair.Side.030.L/Hair.Side.031.L/Hair.Side.032.L/Hair.Side.033.L/Hair.Side.033.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R/Hair.Side.027.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R/Hair.Side.027.R/Hair.Side.028.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R/Hair.Side.027.R/Hair.Side.028.R/Hair.Side.029.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R/Hair.Side.027.R/Hair.Side.028.R/Hair.Side.029.R/Hair.Side.030.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R/Hair.Side.027.R/Hair.Side.028.R/Hair.Side.029.R/Hair.Side.030.R/Hair.Side.031.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R/Hair.Side.027.R/Hair.Side.028.R/Hair.Side.029.R/Hair.Side.030.R/Hair.Side.031.R/Hair.Side.032.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R/Hair.Side.027.R/Hair.Side.028.R/Hair.Side.029.R/Hair.Side.030.R/Hair.Side.031.R/Hair.Side.032.R/Hair.Side.033.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.023.R/Hair.Side.024.R/Hair.Side.025.R/Hair.Side.026.R/Hair.Side.027.R/Hair.Side.028.R/Hair.Side.029.R/Hair.Side.030.R/Hair.Side.031.R/Hair.Side.032.R/Hair.Side.033.R/Hair.Side.033.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L/Hair.Side.038.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L/Hair.Side.038.L/Hair.Side.039.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L/Hair.Side.038.L/Hair.Side.039.L/Hair.Side.040.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L/Hair.Side.038.L/Hair.Side.039.L/Hair.Side.040.L/Hair.Side.041.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L/Hair.Side.038.L/Hair.Side.039.L/Hair.Side.040.L/Hair.Side.041.L/Hair.Side.042.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L/Hair.Side.038.L/Hair.Side.039.L/Hair.Side.040.L/Hair.Side.041.L/Hair.Side.042.L/Hair.Side.043.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L/Hair.Side.038.L/Hair.Side.039.L/Hair.Side.040.L/Hair.Side.041.L/Hair.Side.042.L/Hair.Side.043.L/Hair.Side.044.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.L/Hair.Side.035.L/Hair.Side.036.L/Hair.Side.037.L/Hair.Side.038.L/Hair.Side.039.L/Hair.Side.040.L/Hair.Side.041.L/Hair.Side.042.L/Hair.Side.043.L/Hair.Side.044.L/Hair.Side.044.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R/Hair.Side.038.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R/Hair.Side.038.R/Hair.Side.039.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R/Hair.Side.038.R/Hair.Side.039.R/Hair.Side.040.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R/Hair.Side.038.R/Hair.Side.039.R/Hair.Side.040.R/Hair.Side.041.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R/Hair.Side.038.R/Hair.Side.039.R/Hair.Side.040.R/Hair.Side.041.R/Hair.Side.042.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R/Hair.Side.038.R/Hair.Side.039.R/Hair.Side.040.R/Hair.Side.041.R/Hair.Side.042.R/Hair.Side.043.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R/Hair.Side.038.R/Hair.Side.039.R/Hair.Side.040.R/Hair.Side.041.R/Hair.Side.042.R/Hair.Side.043.R/Hair.Side.044.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.034.R/Hair.Side.035.R/Hair.Side.036.R/Hair.Side.037.R/Hair.Side.038.R/Hair.Side.039.R/Hair.Side.040.R/Hair.Side.041.R/Hair.Side.042.R/Hair.Side.043.R/Hair.Side.044.R/Hair.Side.044.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L/Hair.Side.049.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L/Hair.Side.049.L/Hair.Side.050.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L/Hair.Side.049.L/Hair.Side.050.L/Hair.Side.051.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L/Hair.Side.049.L/Hair.Side.050.L/Hair.Side.051.L/Hair.Side.052.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L/Hair.Side.049.L/Hair.Side.050.L/Hair.Side.051.L/Hair.Side.052.L/Hair.Side.053.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L/Hair.Side.049.L/Hair.Side.050.L/Hair.Side.051.L/Hair.Side.052.L/Hair.Side.053.L/Hair.Side.054.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L/Hair.Side.049.L/Hair.Side.050.L/Hair.Side.051.L/Hair.Side.052.L/Hair.Side.053.L/Hair.Side.054.L/Hair.Side.055.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.L/Hair.Side.046.L/Hair.Side.047.L/Hair.Side.048.L/Hair.Side.049.L/Hair.Side.050.L/Hair.Side.051.L/Hair.Side.052.L/Hair.Side.053.L/Hair.Side.054.L/Hair.Side.055.L/Hair.Side.055.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R/Hair.Side.049.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R/Hair.Side.049.R/Hair.Side.050.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R/Hair.Side.049.R/Hair.Side.050.R/Hair.Side.051.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R/Hair.Side.049.R/Hair.Side.050.R/Hair.Side.051.R/Hair.Side.052.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R/Hair.Side.049.R/Hair.Side.050.R/Hair.Side.051.R/Hair.Side.052.R/Hair.Side.053.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R/Hair.Side.049.R/Hair.Side.050.R/Hair.Side.051.R/Hair.Side.052.R/Hair.Side.053.R/Hair.Side.054.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R/Hair.Side.049.R/Hair.Side.050.R/Hair.Side.051.R/Hair.Side.052.R/Hair.Side.053.R/Hair.Side.054.R/Hair.Side.055.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.045.R/Hair.Side.046.R/Hair.Side.047.R/Hair.Side.048.R/Hair.Side.049.R/Hair.Side.050.R/Hair.Side.051.R/Hair.Side.052.R/Hair.Side.053.R/Hair.Side.054.R/Hair.Side.055.R/Hair.Side.055.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.L/Hair.Side.057.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.L/Hair.Side.057.L/Hair.Side.058.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.L/Hair.Side.057.L/Hair.Side.058.L/Hair.Side.059.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.L/Hair.Side.057.L/Hair.Side.058.L/Hair.Side.059.L/Hair.Side.060.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.L/Hair.Side.057.L/Hair.Side.058.L/Hair.Side.059.L/Hair.Side.060.L/Hair.Side.061.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.L/Hair.Side.057.L/Hair.Side.058.L/Hair.Side.059.L/Hair.Side.060.L/Hair.Side.061.L/Hair.Side.061.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.R/Hair.Side.057.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.R/Hair.Side.057.R/Hair.Side.058.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.R/Hair.Side.057.R/Hair.Side.058.R/Hair.Side.059.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.R/Hair.Side.057.R/Hair.Side.058.R/Hair.Side.059.R/Hair.Side.060.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.R/Hair.Side.057.R/Hair.Side.058.R/Hair.Side.059.R/Hair.Side.060.R/Hair.Side.061.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.056.R/Hair.Side.057.R/Hair.Side.058.R/Hair.Side.059.R/Hair.Side.060.R/Hair.Side.061.R/Hair.Side.061.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L/Hair.Side.064.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L/Hair.Side.064.L/Hair.Side.065.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L/Hair.Side.064.L/Hair.Side.065.L/Hair.Side.066.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L/Hair.Side.064.L/Hair.Side.065.L/Hair.Side.066.L/Hair.Side.067.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L/Hair.Side.064.L/Hair.Side.065.L/Hair.Side.066.L/Hair.Side.067.L/Hair.Side.068.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L/Hair.Side.064.L/Hair.Side.065.L/Hair.Side.066.L/Hair.Side.067.L/Hair.Side.068.L/Hair.Side.069.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L/Hair.Side.064.L/Hair.Side.065.L/Hair.Side.066.L/Hair.Side.067.L/Hair.Side.068.L/Hair.Side.069.L/Hair.Side.070.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.L/Hair.Side.063.L/Hair.Side.064.L/Hair.Side.065.L/Hair.Side.066.L/Hair.Side.067.L/Hair.Side.068.L/Hair.Side.069.L/Hair.Side.070.L/Hair.Side.070.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.R/Hair.Side.063.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.R/Hair.Side.063.R/Hair.Side.064.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.R/Hair.Side.063.R/Hair.Side.064.R/Hair.Side.065.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.R/Hair.Side.063.R/Hair.Side.064.R/Hair.Side.065.R/Hair.Side.066.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.R/Hair.Side.063.R/Hair.Side.064.R/Hair.Side.065.R/Hair.Side.066.R/Hair.Side.067.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.R/Hair.Side.063.R/Hair.Side.064.R/Hair.Side.065.R/Hair.Side.066.R/Hair.Side.067.R/Hair.Side.068.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.062.R/Hair.Side.063.R/Hair.Side.064.R/Hair.Side.065.R/Hair.Side.066.R/Hair.Side.067.R/Hair.Side.068.R/Hair.Side.068.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L/Hair.Side.005.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L/Hair.Side.005.L/Hair.Side.006.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L/Hair.Side.005.L/Hair.Side.006.L/Hair.Side.007.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L/Hair.Side.005.L/Hair.Side.006.L/Hair.Side.007.L/Hair.Side.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L/Hair.Side.005.L/Hair.Side.006.L/Hair.Side.007.L/Hair.Side.008.L/Hair.Side.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L/Hair.Side.005.L/Hair.Side.006.L/Hair.Side.007.L/Hair.Side.008.L/Hair.Side.009.L/Hair.Side.010.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L/Hair.Side.005.L/Hair.Side.006.L/Hair.Side.007.L/Hair.Side.008.L/Hair.Side.009.L/Hair.Side.010.L/Hair.Side.011.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.L/Hair.Side.001.L/Hair.Side.002.L/Hair.Side.003.L/Hair.Side.004.L/Hair.Side.005.L/Hair.Side.006.L/Hair.Side.007.L/Hair.Side.008.L/Hair.Side.009.L/Hair.Side.010.L/Hair.Side.011.L/Hair.Side.011.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R/Hair.Side.005.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R/Hair.Side.005.R/Hair.Side.006.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R/Hair.Side.005.R/Hair.Side.006.R/Hair.Side.007.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R/Hair.Side.005.R/Hair.Side.006.R/Hair.Side.007.R/Hair.Side.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R/Hair.Side.005.R/Hair.Side.006.R/Hair.Side.007.R/Hair.Side.008.R/Hair.Side.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R/Hair.Side.005.R/Hair.Side.006.R/Hair.Side.007.R/Hair.Side.008.R/Hair.Side.009.R/Hair.Side.010.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R/Hair.Side.005.R/Hair.Side.006.R/Hair.Side.007.R/Hair.Side.008.R/Hair.Side.009.R/Hair.Side.010.R/Hair.Side.011.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Hair.Side.R/Hair.Side.001.R/Hair.Side.002.R/Hair.Side.003.R/Hair.Side.004.R/Hair.Side.005.R/Hair.Side.006.R/Hair.Side.007.R/Hair.Side.008.R/Hair.Side.009.R/Hair.Side.010.R/Hair.Side.011.R/Hair.Side.011.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_L.011"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_L.011/Head_L.012"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_L.011/Head_L.012/Head_L.012_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_L.013"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_L.013/Head_L.013_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_L.014"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_L.014/Head_L.014_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_R.011"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_R.011/Head_R.012"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_R.011/Head_R.012/Head_R.012_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_R.013"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_R.013/Head_R.013_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_R.014"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/Head_R.014/Head_R.014_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.003.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.003.L/whiskers.004.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.003.L/whiskers.004.L/whiskers.005.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.003.L/whiskers.004.L/whiskers.005.L/whiskers.005.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.003.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.003.R/whiskers.004.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.003.R/whiskers.004.R/whiskers.005.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.003.R/whiskers.004.R/whiskers.005.R/whiskers.005.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.006.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.006.L/whiskers.007.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.006.L/whiskers.007.L/whiskers.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.006.L/whiskers.007.L/whiskers.008.L/whiskers.008.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.006.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.006.R/whiskers.007.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.006.R/whiskers.007.R/whiskers.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.006.R/whiskers.007.R/whiskers.008.R/whiskers.008.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.009.L/whiskers.010.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.009.L/whiskers.010.L/whiskers.011.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.009.L/whiskers.010.L/whiskers.011.L/whiskers.011.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.009.R/whiskers.010.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.009.R/whiskers.010.R/whiskers.011.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.009.R/whiskers.010.R/whiskers.011.R/whiskers.011.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.L/whiskers.001.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.L/whiskers.001.L/whiskers.002.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.L/whiskers.001.L/whiskers.002.L/whiskers.002.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.R/whiskers.001.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.R/whiskers.001.R/whiskers.002.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Neck/Head/whiskers.R/whiskers.001.R/whiskers.002.R/whiskers.002.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.002.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.002.L/Clothes.Arm.003.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.002.L/Clothes.Arm.003.L/Clothes.Arm.003.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.004.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.004.L/Clothes.Arm.005.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.004.L/Clothes.Arm.005.L/Clothes.Arm.005.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.006.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.006.L/Clothes.Arm.007.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.006.L/Clothes.Arm.007.L/Clothes.Arm.007.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.008.L/Clothes.Arm.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.008.L/Clothes.Arm.009.L/Clothes.Arm.009.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.010.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.010.L/Clothes.Arm.011.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.010.L/Clothes.Arm.011.L/Clothes.Arm.011.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.L/Clothes.Arm.001.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Clothes.Arm.L/Clothes.Arm.001.L/Clothes.Arm.001.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.002"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.002/Hand_L.003"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.002/Hand_L.003/Hand_L.004"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.002/Hand_L.003/Hand_L.004/Hand_L.005"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.002/Hand_L.003/Hand_L.004/Hand_L.005/Hand_L.005_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.006"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.006/Hand_L.007"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.006/Hand_L.007/Hand_L.008"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.006/Hand_L.007/Hand_L.008/Hand_L.009"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.006/Hand_L.007/Hand_L.008/Hand_L.009/Hand_L.009_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.010"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.010/Hand_L.011"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.010/Hand_L.011/Hand_L.012"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.010/Hand_L.011/Hand_L.012/Hand_L.013"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.010/Hand_L.011/Hand_L.012/Hand_L.013/Hand_L.013_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.014"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.014/Hand_L.015"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.014/Hand_L.015/Hand_L.016"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.014/Hand_L.015/Hand_L.016/Hand_L.017"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.014/Hand_L.015/Hand_L.016/Hand_L.017/Hand_L.017_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.018"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.018/Hand_L.019"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.018/Hand_L.019/Hand_L.020"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.018/Hand_L.019/Hand_L.020/Hand_L.021"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Hand_L.018/Hand_L.019/Hand_L.020/Hand_L.021/Hand_L.021_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.002.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.002.R/Clothes.Arm.003.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.002.R/Clothes.Arm.003.R/Clothes.Arm.003.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.004.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.004.R/Clothes.Arm.005.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.004.R/Clothes.Arm.005.R/Clothes.Arm.005.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.006.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.006.R/Clothes.Arm.007.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.006.R/Clothes.Arm.007.R/Clothes.Arm.007.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.008.R/Clothes.Arm.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.008.R/Clothes.Arm.009.R/Clothes.Arm.009.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.010.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.010.R/Clothes.Arm.011.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.010.R/Clothes.Arm.011.R/Clothes.Arm.011.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.R/Clothes.Arm.001.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Clothes.Arm.R/Clothes.Arm.001.R/Clothes.Arm.001.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.002"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.002/Hand_R.003"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.002/Hand_R.003/Hand_R.004"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.002/Hand_R.003/Hand_R.004/Hand_R.005"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.002/Hand_R.003/Hand_R.004/Hand_R.005/Hand_R.005_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.006"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.006/Hand_R.007"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.006/Hand_R.007/Hand_R.008"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.006/Hand_R.007/Hand_R.008/Hand_R.009"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.006/Hand_R.007/Hand_R.008/Hand_R.009/Hand_R.009_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.010"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.010/Hand_R.011"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.010/Hand_R.011/Hand_R.012"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.010/Hand_R.011/Hand_R.012/Hand_R.013"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.010/Hand_R.011/Hand_R.012/Hand_R.013/Hand_R.013_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.014"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.014/Hand_R.015"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.014/Hand_R.015/Hand_R.016"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.014/Hand_R.015/Hand_R.016/Hand_R.017"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.014/Hand_R.015/Hand_R.016/Hand_R.017/Hand_R.017_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.018"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.018/Hand_R.019"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.018/Hand_R.019/Hand_R.020"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.018/Hand_R.019/Hand_R.020/Hand_R.021"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Spine/Chest/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Hand_R.018/Hand_R.019/Hand_R.020/Hand_R.021/Hand_R.021_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.L/Tail.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.L/Tail.009.L/Tail.010.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.L/Tail.009.L/Tail.010.L/Tail.011.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.L/Tail.009.L/Tail.010.L/Tail.011.L/Tail.012.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.L/Tail.009.L/Tail.010.L/Tail.011.L/Tail.012.L/Tail.012.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.R/Tail.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.R/Tail.009.R/Tail.010.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.R/Tail.009.R/Tail.010.R/Tail.011.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.R/Tail.009.R/Tail.010.R/Tail.011.R/Tail.012.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/Tail/Tail.001/Tail.002/Tail.003/Tail.004/Tail.005/Tail.006/Tail.007/Tail.008.R/Tail.009.R/Tail.010.R/Tail.011.R/Tail.012.R/Tail.012.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Foot_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Foot_L/Foot_L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.002.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.002.L/Leg_R.003.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.002.L/Leg_R.003.L/Leg_R.003.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.004.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.004.L/Leg_R.005.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.004.L/Leg_R.005.L/Leg_R.005.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.006.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.006.L/Leg_R.006.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.007.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/Leg_L/Leg_R.007.L/Leg_R.007.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.002.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.002.L/UpperLeg_R.003.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.002.L/UpperLeg_R.003.L/UpperLeg_R.003.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.004.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.004.L/UpperLeg_R.005.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.004.L/UpperLeg_R.005.L/UpperLeg_R.005.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.006.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.006.L/UpperLeg_R.007.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.006.L/UpperLeg_R.007.L/UpperLeg_R.007.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.008.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.008.L/UpperLeg_R.009.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.008.L/UpperLeg_R.009.L/UpperLeg_R.009.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.010.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.010.L/UpperLeg_R.011.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.010.L/UpperLeg_R.011.L/UpperLeg_R.011.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.012.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.012.L/UpperLeg_R.013.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.012.L/UpperLeg_R.013.L/UpperLeg_R.013.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.014.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.014.L/UpperLeg_R.015.L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_L/UpperLeg_R.014.L/UpperLeg_R.015.L/UpperLeg_R.015.L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Foot_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Foot_R/Foot_R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.002.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.002.R/Leg_R.003.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.002.R/Leg_R.003.R/Leg_R.003.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.004.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.004.R/Leg_R.005.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.004.R/Leg_R.005.R/Leg_R.005.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.006.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.006.R/Leg_R.006.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.007.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/Leg_R/Leg_R.007.R/Leg_R.007.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.002.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.002.R/UpperLeg_R.003.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.002.R/UpperLeg_R.003.R/UpperLeg_R.003.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.004.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.004.R/UpperLeg_R.005.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.004.R/UpperLeg_R.005.R/UpperLeg_R.005.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.006.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.006.R/UpperLeg_R.007.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.006.R/UpperLeg_R.007.R/UpperLeg_R.007.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.008.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.008.R/UpperLeg_R.009.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.008.R/UpperLeg_R.009.R/UpperLeg_R.009.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.010.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.010.R/UpperLeg_R.011.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.010.R/UpperLeg_R.011.R/UpperLeg_R.011.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.012.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.012.R/UpperLeg_R.013.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.012.R/UpperLeg_R.013.R/UpperLeg_R.013.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.014.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.014.R/UpperLeg_R.015.R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Hips/UpperLeg_R/UpperLeg_R.014.R/UpperLeg_R.015.R/UpperLeg_R.015.R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Root.Upper"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Root/Root.Upper/Root.Upper_end"
+    m_Weight: 1
+  - m_Path: "\u5E73\u9762"
+    m_Weight: 1
